@@ -330,4 +330,5 @@ ASALocalRun/
 .mfractor/
 
 # Local settings
-.vscode\settings.json
+config.json
+.vscode/settings.json
