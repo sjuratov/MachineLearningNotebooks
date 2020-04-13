@@ -332,3 +332,10 @@ ASALocalRun/
 # Local settings
 config.json
 .vscode/settings.json
+tutorials/machine-learning-pipelines-advanced/model.tar.gz
+tutorials/machine-learning-pipelines-advanced/models/inception_v3.ckpt
+tutorials/machine-learning-pipelines-advanced/inception_results/azureml/a481e345-2300-4053-9fac-1dd6c1856bfe/scores/parallel_run_step.txt
+how-to-use-azureml/machine-learning-pipelines/nyc-taxi-data-regression-model-building/outputs/*
+how-to-use-azureml/machine-learning-pipelines/nyc-taxi-data-regression-model-building/data/*
+*.pkl
+.gitignore
